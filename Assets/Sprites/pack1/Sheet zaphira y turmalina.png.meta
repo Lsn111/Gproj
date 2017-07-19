@@ -1,0 +1,1298 @@
+fileFormatVersion: 2
+guid: 6bc3c4d3b859ad44e8155de16dc691c2
+timeCreated: 1500231181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sheet zaphira y turmalina_0
+    21300002: Sheet zaphira y turmalina_1
+    21300004: Sheet zaphira y turmalina_2
+    21300006: Sheet zaphira y turmalina_3
+    21300008: Sheet zaphira y turmalina_4
+    21300010: Sheet zaphira y turmalina_5
+    21300012: Sheet zaphira y turmalina_6
+    21300014: Sheet zaphira y turmalina_7
+    21300016: Sheet zaphira y turmalina_8
+    21300018: Sheet zaphira y turmalina_9
+    21300020: Sheet zaphira y turmalina_10
+    21300022: Sheet zaphira y turmalina_11
+    21300024: Sheet zaphira y turmalina_12
+    21300026: Sheet zaphira y turmalina_13
+    21300028: Sheet zaphira y turmalina_14
+    21300030: Sheet zaphira y turmalina_15
+    21300032: Sheet zaphira y turmalina_16
+    21300034: Sheet zaphira y turmalina_17
+    21300036: Sheet zaphira y turmalina_18
+    21300038: Sheet zaphira y turmalina_19
+    21300040: Sheet zaphira y turmalina_20
+    21300042: Sheet zaphira y turmalina_21
+    21300044: Sheet zaphira y turmalina_22
+    21300046: Sheet zaphira y turmalina_23
+    21300048: Sheet zaphira y turmalina_24
+    21300050: Sheet zaphira y turmalina_25
+    21300052: Sheet zaphira y turmalina_26
+    21300054: Sheet zaphira y turmalina_27
+    21300056: Sheet zaphira y turmalina_28
+    21300058: Sheet zaphira y turmalina_29
+    21300060: Sheet zaphira y turmalina_30
+    21300062: Sheet zaphira y turmalina_31
+    21300064: Sheet zaphira y turmalina_32
+    21300066: Sheet zaphira y turmalina_33
+    21300068: Sheet zaphira y turmalina_34
+    21300070: Sheet zaphira y turmalina_35
+    21300072: Sheet zaphira y turmalina_36
+    21300074: Sheet zaphira y turmalina_37
+    21300076: Sheet zaphira y turmalina_38
+    21300078: Sheet zaphira y turmalina_39
+    21300080: Sheet zaphira y turmalina_40
+    21300082: Sheet zaphira y turmalina_41
+    21300084: Sheet zaphira y turmalina_42
+    21300086: Sheet zaphira y turmalina_43
+    21300088: Sheet zaphira y turmalina_44
+    21300090: Sheet zaphira y turmalina_45
+    21300092: Sheet zaphira y turmalina_46
+    21300094: Sheet zaphira y turmalina_47
+    21300096: Sheet zaphira y turmalina_48
+    21300098: Sheet zaphira y turmalina_49
+    21300100: Sheet zaphira y turmalina_50
+    21300102: Sheet zaphira y turmalina_51
+    21300104: Sheet zaphira y turmalina_52
+    21300106: Sheet zaphira y turmalina_53
+    21300108: Sheet zaphira y turmalina_54
+    21300110: Sheet zaphira y turmalina_55
+    21300112: Sheet zaphira y turmalina_56
+    21300114: Sheet zaphira y turmalina_57
+    21300116: Sheet zaphira y turmalina_58
+    21300118: Sheet zaphira y turmalina_59
+    21300120: Sheet zaphira y turmalina_60
+    21300122: Sheet zaphira y turmalina_61
+    21300124: Sheet zaphira y turmalina_62
+    21300126: Sheet zaphira y turmalina_63
+    21300128: Sheet zaphira y turmalina_64
+    21300130: Sheet zaphira y turmalina_65
+    21300132: Sheet zaphira y turmalina_66
+    21300134: Sheet zaphira y turmalina_67
+    21300136: Sheet zaphira y turmalina_68
+    21300138: Sheet zaphira y turmalina_69
+    21300140: Sheet zaphira y turmalina_70
+    21300142: Sheet zaphira y turmalina_71
+    21300144: Sheet zaphira y turmalina_72
+    21300146: Sheet zaphira y turmalina_73
+    21300148: Sheet zaphira y turmalina_74
+    21300150: Sheet zaphira y turmalina_75
+    21300152: Sheet zaphira y turmalina_76
+    21300154: Sheet zaphira y turmalina_77
+    21300156: Sheet zaphira y turmalina_78
+    21300158: Sheet zaphira y turmalina_80
+    21300160: Sheet zaphira y turmalina_82
+    21300162: Sheet zaphira y turmalina_84
+    21300164: Sheet zaphira y turmalina_85
+    21300166: Sheet zaphira y turmalina_86
+    21300168: Sheet zaphira y turmalina_87
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 730
+        width: 74
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 731
+        width: 74
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 730
+        width: 75
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 727
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 658
+        width: 104
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 659
+        width: 116
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 627
+        width: 124
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 667
+        width: 69
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 676
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 674
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 664
+        width: 55
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 621
+        width: 102
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 626
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 607
+        width: 93
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 608
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_15
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 612
+        width: 83
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 626
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 531
+        width: 85
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 524
+        width: 84
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 523
+        width: 85
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 518
+        width: 83
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 519
+        width: 86
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 516
+        width: 83
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 521
+        width: 86
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_24
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 517
+        width: 86
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 450
+        width: 120
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 444
+        width: 114
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 450
+        width: 133
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 448
+        width: 131
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 443
+        width: 115
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 443
+        width: 117
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_31
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 446
+        width: 127
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 439
+        width: 125
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 365
+        width: 77
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 362
+        width: 66
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 359
+        width: 67
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 362
+        width: 69
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 366
+        width: 70
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 353
+        width: 73
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_39
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 354
+        width: 75
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_40
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 348
+        width: 77
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_41
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 363
+        width: 78
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_42
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 359
+        width: 77
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_43
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 358
+        width: 77
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 104
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 283
+        width: 39
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 283
+        width: 31
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 284
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 284
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 284
+        width: 73
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 290
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_51
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 290
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 283
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 286
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_54
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 279
+        width: 88
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_55
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 273
+        width: 83
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_56
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 285
+        width: 95
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_57
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 284
+        width: 101
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_58
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 278
+        width: 97
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 203
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 203
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 198
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_63
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 197
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 197
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 195
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 195
+        width: 73
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 190
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_68
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 190
+        width: 71
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 191
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 191
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_71
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 191
+        width: 95
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_72
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 188
+        width: 80
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_73
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 185
+        width: 72
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_74
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 186
+        width: 74
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_75
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 183
+        width: 77
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_76
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 176
+        width: 84
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_77
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 175
+        width: 73
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_78
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 179
+        width: 80
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_80
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 177
+        width: 80
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_82
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 176
+        width: 78
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 109
+        width: 68
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 116
+        width: 90
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_86
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 116
+        width: 90
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira y turmalina_87
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 115
+        width: 91
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
