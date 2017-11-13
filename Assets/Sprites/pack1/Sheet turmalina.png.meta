@@ -1,9 +1,46 @@
 fileFormatVersion: 2
 guid: a6c81a66ec993474d99638537fdae355
-timeCreated: 1500230788
+timeCreated: 1503790881
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Sheet turmalina_0
+    21300002: Sheet turmalina_1
+    21300004: Sheet turmalina_2
+    21300006: Sheet turmalina_3
+    21300008: Sheet turmalina_4
+    21300010: Sheet turmalina_5
+    21300012: Sheet turmalina_6
+    21300014: Sheet turmalina_7
+    21300016: Sheet turmalina_8
+    21300018: Sheet turmalina_9
+    21300020: Sheet turmalina_10
+    21300022: Sheet turmalina_11
+    21300024: Sheet turmalina_12
+    21300026: Sheet turmalina_13
+    21300028: Sheet turmalina_14
+    21300030: Sheet turmalina_15
+    21300032: Sheet turmalina_16
+    21300034: Sheet turmalina_17
+    21300036: Sheet turmalina_18
+    21300038: Sheet turmalina_19
+    21300040: Sheet turmalina_20
+    21300042: Sheet turmalina_21
+    21300044: Sheet turmalina_22
+    21300046: Sheet turmalina_23
+    21300048: Sheet turmalina_24
+    21300050: Sheet turmalina_25
+    21300052: Sheet turmalina_26
+    21300054: Sheet turmalina_27
+    21300056: Sheet turmalina_28
+    21300058: Sheet turmalina_29
+    21300060: Sheet turmalina_30
+    21300062: Sheet turmalina_31
+    21300064: Sheet turmalina_32
+    21300066: Sheet turmalina_33
+    21300068: Sheet turmalina_34
+    21300070: Sheet turmalina_35
+    21300072: Sheet turmalina_36
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +71,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +95,530 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sheet turmalina_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 341
+        width: 52
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 340
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 341
+        width: 55
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 339
+        width: 55
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 248
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 245
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 243
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 73
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 238
+        width: 71
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 235
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 230
+        width: 87
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 227
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 224
+        width: 43
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 43
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 216
+        width: 63
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 216
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 220
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 219
+        width: 39
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 139
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 132
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 139
+        width: 61
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 134
+        width: 59
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 133
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_24
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 129
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 130
+        width: 54
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 43
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 43
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 40
+        width: 31
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 43
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 41
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 43
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 43
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 39
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 39
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_35
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 44
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet turmalina_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 45
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

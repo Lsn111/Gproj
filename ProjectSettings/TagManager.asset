@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - scavenger1
   layers:
   - Default
   - TransparentFX
@@ -15,10 +16,10 @@ TagManager:
   - 
   - floor
   - platform
-  - background
+  - background1
   - characters
-  - 
-  - 
+  - background2
+  - enemies
   - 
   - 
   - 
@@ -41,8 +42,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: background
+  - name: background1
     uniqueID: 2439351423
+    locked: 0
+  - name: background2
+    uniqueID: 2608378349
     locked: 0
   - name: floor
     uniqueID: 2920916849

@@ -1,9 +1,55 @@
 fileFormatVersion: 2
 guid: 6256c8b80eefc7143807253e811472df
-timeCreated: 1500230786
+timeCreated: 1503536836
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Sheet zaphira_0
+    21300002: Sheet zaphira_1
+    21300004: Sheet zaphira_2
+    21300006: Sheet zaphira_3
+    21300008: Sheet zaphira_4
+    21300010: Sheet zaphira_5
+    21300012: Sheet zaphira_6
+    21300014: Sheet zaphira_7
+    21300016: Sheet zaphira_8
+    21300018: Sheet zaphira_9
+    21300020: Sheet zaphira_10
+    21300022: Sheet zaphira_11
+    21300024: Sheet zaphira_12
+    21300026: Sheet zaphira_13
+    21300028: Sheet zaphira_14
+    21300030: Sheet zaphira_15
+    21300032: Sheet zaphira_16
+    21300034: Sheet zaphira_17
+    21300036: Sheet zaphira_18
+    21300038: Sheet zaphira_19
+    21300040: Sheet zaphira_20
+    21300042: Sheet zaphira_21
+    21300044: Sheet zaphira_22
+    21300046: Sheet zaphira_23
+    21300048: Sheet zaphira_24
+    21300050: Sheet zaphira_25
+    21300052: Sheet zaphira_26
+    21300054: Sheet zaphira_27
+    21300056: Sheet zaphira_28
+    21300058: Sheet zaphira_29
+    21300060: Sheet zaphira_30
+    21300062: Sheet zaphira_31
+    21300064: Sheet zaphira_32
+    21300066: Sheet zaphira_33
+    21300068: Sheet zaphira_34
+    21300070: Sheet zaphira_35
+    21300072: Sheet zaphira_36
+    21300074: Sheet zaphira_37
+    21300076: Sheet zaphira_38
+    21300078: Sheet zaphira_39
+    21300080: Sheet zaphira_40
+    21300082: Sheet zaphira_41
+    21300084: Sheet zaphira_42
+    21300086: Sheet zaphira_43
+    21300088: Sheet zaphira_44
+    21300090: Sheet zaphira_45
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -34,7 +80,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,9 +104,647 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sheet zaphira_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 499
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 499
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 501
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 499
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 396
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 398
+        width: 88
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 397
+        width: 89
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 395
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 306
+        width: 85
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 304
+        width: 84
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 301
+        width: 83
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 81
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 297
+        width: 86
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 288
+        width: 83
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 295
+        width: 81
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 292
+        width: 82
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 213
+        width: 86
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 208
+        width: 84
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 83
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 206
+        width: 82
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 204
+        width: 86
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 206
+        width: 83
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 199
+        width: 84
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 202
+        width: 84
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 72
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 118
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 122
+        width: 46
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 119
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 118
+        width: 56
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 115
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 113
+        width: 61
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_32
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 122
+        width: 71
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 122
+        width: 76
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 116
+        width: 72
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 34
+        width: 65
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 24
+        width: 39
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 23
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 29
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 27
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 17
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 15
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_43
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 21
+        width: 63
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_44
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 25
+        width: 69
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheet zaphira_45
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 19
+        width: 65
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
